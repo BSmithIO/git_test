@@ -1,1 +1,1 @@
-This is bresmi's first git project!
+This is BSmithIO's first git project!
